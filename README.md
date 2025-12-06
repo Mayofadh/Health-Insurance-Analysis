@@ -15,6 +15,10 @@
 ### Project Overview
 Health Insurance Analysis exploring uninsured rates from 2010–2015 and changes in Medicaid enrollment from 2013–2016. Includes data cleaning, exploration, visualization, and key insights on insurance coverage trends.
 
+
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/66322771-3507-44b1-ba84-1ef2bba6464d" />
+
+
 ### Data Sources
 
 Health Insurance Data: The primary dataset used for this analysis is the "Health_Insurance.csv" file containing information about made in different countries.
